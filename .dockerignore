@@ -1,0 +1,16 @@
+dist
+node_modules
+.vscode
+.vercel
+vercel.json
+
+# 无关的文件
+.git
+.github
+.gitignore
+.dockerignore
+app.json
+heroku.yml
+Dockerfile
+README.md
+docker-compose.yml
